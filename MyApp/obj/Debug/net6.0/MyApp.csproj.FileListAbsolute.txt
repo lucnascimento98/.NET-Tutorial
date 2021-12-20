@@ -1,0 +1,15 @@
+C:\Tutoriais .NET\.NET-Tutorial\MyApp\bin\Debug\net6.0\MyApp.exe
+C:\Tutoriais .NET\.NET-Tutorial\MyApp\bin\Debug\net6.0\MyApp.deps.json
+C:\Tutoriais .NET\.NET-Tutorial\MyApp\bin\Debug\net6.0\MyApp.runtimeconfig.json
+C:\Tutoriais .NET\.NET-Tutorial\MyApp\bin\Debug\net6.0\MyApp.dll
+C:\Tutoriais .NET\.NET-Tutorial\MyApp\bin\Debug\net6.0\ref\MyApp.dll
+C:\Tutoriais .NET\.NET-Tutorial\MyApp\bin\Debug\net6.0\MyApp.pdb
+C:\Tutoriais .NET\.NET-Tutorial\MyApp\obj\Debug\net6.0\MyApp.csproj.AssemblyReference.cache
+C:\Tutoriais .NET\.NET-Tutorial\MyApp\obj\Debug\net6.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Tutoriais .NET\.NET-Tutorial\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfoInputs.cache
+C:\Tutoriais .NET\.NET-Tutorial\MyApp\obj\Debug\net6.0\MyApp.AssemblyInfo.cs
+C:\Tutoriais .NET\.NET-Tutorial\MyApp\obj\Debug\net6.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Tutoriais .NET\.NET-Tutorial\MyApp\obj\Debug\net6.0\MyApp.dll
+C:\Tutoriais .NET\.NET-Tutorial\MyApp\obj\Debug\net6.0\ref\MyApp.dll
+C:\Tutoriais .NET\.NET-Tutorial\MyApp\obj\Debug\net6.0\MyApp.pdb
+C:\Tutoriais .NET\.NET-Tutorial\MyApp\obj\Debug\net6.0\MyApp.genruntimeconfig.cache
